@@ -15,7 +15,8 @@ This plugin is used to redirect page to home on logout.
 This plugin is used to redirect page to home on logout.
 
 #### [My Other WordPress Plugins](http://wooprali.in/plugins)
-* [WPi Custom Logout - Redirection to home on logout](https://wordpress.org/plugins/wpi-display-plugin-data/)
+* [WPi Custom Logout - Redirection to home on logout](https://wordpress.org/plugins/wpi-custom-logout/)
+* [WPi Display Plugin Data - Show wordpress.org plugins data in your website](https://wordpress.org/plugins/wpi-display-plugin-data/)
 
 == Installation ==
 
