@@ -1,7 +1,7 @@
 ===  WPi Display Plugin Data - Show wordpress.org plugins data in your website  === 
 Contributors: wooprali
 Donate link: http://wooprali.prali.in/
-Tags: show plugins data, plugins data, dislay plugins data
+Tags: show plugins data, plugins data, dislay plugins data, plugin-api, wordpress plugins api, api
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 4.3
