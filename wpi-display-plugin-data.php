@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WPi Display Plugin Data
  * Plugin URI: http://wooprali.in/plugins/wpi-display-plugin-data
- * Description: This plugin in used for custom logout page redirection to home page
+ * Description: Show wordpress.org plugins data in your website
  * Version: 1.0.0
  * Author: wooprali
  * Author URI: http://wooprali.in

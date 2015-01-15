@@ -12,7 +12,7 @@ This plugin is used to redirect page to home on logout.
 
 == Description ==
 
-This plugin is used to redirect page to home on logout.
+Show wordpress.org plugins data in your website
 
 #### [My Other WordPress Plugins](http://wooprali.prali.in/plugins)
 * [WPi Custom Logout - Redirection to home on logout](https://wordpress.org/plugins/wpi-custom-logout/)
