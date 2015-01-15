@@ -18,7 +18,7 @@ Note: In shorcode you must have to pass name attribute with correct slug. check 
 * correct slug:  wpi-display-plugin-data 
 * Wrong slug:  WPi Display Plugin Data
 * Correct Shortcode: 
-` [wpi_display_plugin_data name='wpi-display-plugin-data']
+` [wpi_display_plugin_data name='wpi-display-plugin-data']`
 
 #### [My Other WordPress Plugins](http://wooprali.prali.in/plugins)
 * [WPi Custom Logout - Redirection to home on logout](https://wordpress.org/plugins/wpi-custom-logout/)
@@ -34,7 +34,7 @@ Note: In shorcode you must have to pass name attribute with correct slug. check 
 * correct slug:  wpi-display-plugin-data 
 * Wrong slug:  WPi Display Plugin Data
 * Correct Shortcode: 
-` [wpi_display_plugin_data name='wpi-display-plugin-data']
+` [wpi_display_plugin_data name='wpi-display-plugin-data']`
 
 
 
