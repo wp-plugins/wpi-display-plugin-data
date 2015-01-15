@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WPi Display Plugin Data
- * Plugin URI: http://wooprali.in/plugins/wpi-display-plugin-data
+ * Plugin URI: http://wooprali.prali.in/plugins/wpi-display-plugin-data
  * Description: Show wordpress.org plugins data in your website
  * Version: 1.0.0
  * Author: wooprali
