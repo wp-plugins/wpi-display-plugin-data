@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin is used to redirect page to home on logout.
+Show wordpress.org plugins data in your website
 
 == Description ==
 
