@@ -47,7 +47,7 @@ An answer to that question.
 
 
 == Screenshots ==
-
+1. Plugins data display in website post
 
 
 == Changelog ==
